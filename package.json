@@ -1,5 +1,5 @@
 {
-  "name": "eth-send",
+  "name": "eth-send-govind",
   "version": "0.0.12",
   "description": "Simple way to send ether.",
   "main": "index.js",
